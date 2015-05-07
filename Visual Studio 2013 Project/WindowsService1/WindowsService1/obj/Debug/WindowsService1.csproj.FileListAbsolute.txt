@@ -1,0 +1,10 @@
+C:\Users\fuadshah\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\fuadshah\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\fuadshah\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\fuadshah\Desktop\WindowsService1\WindowsService1\bin\Debug\ZeroMQ.dll
+C:\Users\fuadshah\Desktop\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Users\fuadshah\Desktop\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\fuadshah\Desktop\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\fuadshah\Desktop\majordomo\Visual Studio 2013 Project\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\fuadshah\Desktop\majordomo\Visual Studio 2013 Project\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\fuadshah\Desktop\majordomo\Visual Studio 2013 Project\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
